@@ -12,7 +12,7 @@ The Java Quiz Application is an interactive desktop application built using Java
   <img src="https://github.com/user-attachments/assets/a52c578f-06e4-4541-b207-bdfcc37094a1" alt="Image 5" width="150"/>
   <img src="https://github.com/user-attachments/assets/d70c5951-3ffa-4912-af92-bcf7450abc87" alt="Image 6" width="150"/>
 </p>
-<p>
+<p align="center>
   <img src="https://github.com/user-attachments/assets/446866ab-4afd-49db-81ca-6e01ebfd9e7c" alt="Image 7" width="150"/>
   <img src="https://github.com/user-attachments/assets/163126ee-c568-4ac6-b7ce-7ffc515580e1" alt="Image 8" width="150"/>
   <img src="https://github.com/user-attachments/assets/2f1aeaa2-c6ce-425a-b201-83c78b553001" alt="Image 9" width="150"/>
