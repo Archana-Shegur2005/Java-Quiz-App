@@ -17,7 +17,7 @@ The Java Quiz Application is an interactive desktop application built using Java
  To create an engaging, database-driven quiz platform that allows users to test their knowledge across various topics, while ensuring secure data storage for user profiles and quiz results.<br>
 
 
-<h1>> **Key Activities**</h1<br>
+<h1>**Key Activities**</h1><br>
 
 	1. **User Registration and Login**: Secure authentication using database storage for user credentials.<br>
 	2. **Quiz Interface**: A responsive and intuitive UI for answering questions with a timer.<br>
@@ -25,7 +25,7 @@ The Java Quiz Application is an interactive desktop application built using Java
 	4. **Real-time Results**: Immediate scoring and performance feedback for users.<br>
 
 
-# **Technology Used**<br>
+ **Technology Used**<br>
 
 	1. **Java**: Core programming language for application logic.<br>
 	2. **Swing**: For creating the graphical user interface.<br>
