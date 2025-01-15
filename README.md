@@ -1,6 +1,7 @@
 **Overview of the Project**
 The Java Quiz Application is an interactive desktop application built using Java Swing and integrated with a database. It allows users to register, log in, and participate in quizzes, providing real-time scoring and feedback. The application emphasizes a seamless user experience with secure data management.
 
+
 ![image](https://github.com/user-attachments/assets/38d8c7af-c41c-44db-8815-6ca2fc6b5645)       ![image](https://github.com/user-attachments/assets/61918c4b-fe84-4db4-879e-58e5af5e5bb8)
      ![image](https://github.com/user-attachments/assets/e1c3eb3d-95b5-4c76-a9fc-41105e2e9063)
  ![image](https://github.com/user-attachments/assets/cfcb843b-c4dd-46f5-8420-914e4cdab372)
@@ -15,11 +16,13 @@ The Java Quiz Application is an interactive desktop application built using Java
 **Objective**
  To create an engaging, database-driven quiz platform that allows users to test their knowledge across various topics, while ensuring secure data storage for user profiles and quiz results.
 
+
 **Key Activities**
 	1. **User Registration and Login**: Secure authentication using database storage for user credentials.
 	2. **Quiz Interface**: A responsive and intuitive UI for answering questions with a timer.
 	3. **Database Management**: Efficient storage and retrieval of user data, quiz questions, and results.
 	4. **Real-time Results**: Immediate scoring and performance feedback for users.
+
 
 **Technology Used**
 	1. **Java**: Core programming language for application logic.
@@ -29,11 +32,13 @@ The Java Quiz Application is an interactive desktop application built using Java
 	5. **NetBeans**: IDE for development and GUI design.
 	6. **File Resources**: For managing images and configurations.
 
+
 **Key Insights**
 	1. **Database Integration**: Ensures persistent data storage for users and quiz content.
 	2. **Security**: Secure handling of user credentials using encryption methods (if implemented).
 	3. **Scalability**: The modular database design supports the addition of new quiz topics and features.
 	4. **User Experience**: Interactive interface with real-time updates and responsive performance.
+
 
  **Working**
 	1. **Launch**: The application starts with a login or registration screen connected to the database.
