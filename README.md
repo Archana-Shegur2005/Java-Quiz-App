@@ -1,9 +1,9 @@
 **Overview of the Project**
 The Java Quiz Application is an interactive desktop application built using Java Swing and integrated with a database. It allows users to register, log in, and participate in quizzes, providing real-time scoring and feedback. The application emphasizes a seamless user experience with secure data management.
-![image](https://github.com/user-attachments/assets/38d8c7af-c41c-44db-8815-6ca2fc6b5645)
-![image](https://github.com/user-attachments/assets/61918c4b-fe84-4db4-879e-58e5af5e5bb8)
-![image](https://github.com/user-attachments/assets/e1c3eb3d-95b5-4c76-a9fc-41105e2e9063)
-![image](https://github.com/user-attachments/assets/cfcb843b-c4dd-46f5-8420-914e4cdab372)
+
+![image](https://github.com/user-attachments/assets/38d8c7af-c41c-44db-8815-6ca2fc6b5645)       ![image](https://github.com/user-attachments/assets/61918c4b-fe84-4db4-879e-58e5af5e5bb8)
+     ![image](https://github.com/user-attachments/assets/e1c3eb3d-95b5-4c76-a9fc-41105e2e9063)
+ ![image](https://github.com/user-attachments/assets/cfcb843b-c4dd-46f5-8420-914e4cdab372)
 ![image](https://github.com/user-attachments/assets/a52c578f-06e4-4541-b207-bdfcc37094a1)
 ![image](https://github.com/user-attachments/assets/d70c5951-3ffa-4912-af92-bcf7450abc87)
 ![image](https://github.com/user-attachments/assets/446866ab-4afd-49db-81ca-6e01ebfd9e7c)
