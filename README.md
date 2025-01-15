@@ -1,4 +1,4 @@
-**Overview of the Project**<br>
+# **Overview of the Project**<br>
 The Java Quiz Application is an interactive desktop application built using Java Swing and integrated with a database. It allows users to register, log in, and participate in quizzes, providing real-time scoring and feedback. The application emphasizes a seamless user experience with secure data management.<br>
 
 
@@ -13,18 +13,18 @@ The Java Quiz Application is an interactive desktop application built using Java
 
 
 
-**Objective**<br>
+# **Objective**<br>
  To create an engaging, database-driven quiz platform that allows users to test their knowledge across various topics, while ensuring secure data storage for user profiles and quiz results.<br>
 
 
-**Key Activities**<br>
+# **Key Activities**<br>
 	1. **User Registration and Login**: Secure authentication using database storage for user credentials.<br>
 	2. **Quiz Interface**: A responsive and intuitive UI for answering questions with a timer.<br>
 	3. **Database Management**: Efficient storage and retrieval of user data, quiz questions, and results.<br>
 	4. **Real-time Results**: Immediate scoring and performance feedback for users.<br>
 
 
-**Technology Used**<br>
+# **Technology Used**<br>
 	1. **Java**: Core programming language for application logic.<br>
 	2. **Swing**: For creating the graphical user interface.<br>
 	3. **JDBC**: For connecting the application to the database.<br>
@@ -33,14 +33,14 @@ The Java Quiz Application is an interactive desktop application built using Java
 	6. **File Resources**: For managing images and configurations.<br>
 
 
-**Key Insights**<br>
+# **Key Insights**<br>
 	1. **Database Integration**: Ensures persistent data storage for users and quiz content.<br>
 	2. **Security**: Secure handling of user credentials using encryption methods (if implemented).<br>
 	3. **Scalability**: The modular database design supports the addition of new quiz topics and features.<br>
 	4. **User Experience**: Interactive interface with real-time updates and responsive performance.<br>
 
 
- **Working**<br>
+# **Working**<br>
 	1. **Launch**: The application starts with a login or registration screen connected to the database.<br>
 	2. **Quiz Selection**: Users can select topics from the database.<br>
 	3. **Quiz Execution**: Questions retrieved from the database are presented to the user with a timer.<br>
